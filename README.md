@@ -98,10 +98,26 @@
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aza4k&label=Profile%20views&color=0e75b6&style=flat" alt="aza4k" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aza4k&theme=monokai" alt="aza4k" /></a> </p>
+
+
+- 📫 How to reach me **aza4k@gmail.com**
+- ⚡ Fun fact **I love game**
+
+<div> <a href="https://github.com/aza4k" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:aza4k@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aza4k&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aza4k&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<a href="https://github.com/aza4k">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aza4k&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aza4k&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aza4k&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aza4k&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aza4k&theme=2077" height="180em" />
 </div>
+
 
 ###
 
