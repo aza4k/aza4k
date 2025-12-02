@@ -1,130 +1,97 @@
-<h2 align="left">Hi 👋! My name is Azamat and I'm a Python Developer, from Karakalpakstan</h2>
-
-###
-
-- 📫 How to reach me **aza4k@gmail.com**
-- ⚡ Fun fact **I love game**
-
-
-<div> 
-<a href = "mailto:aza4kf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<a href="https://twitter.com/aza4kk" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/aza4k" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-</div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aza4k&label=Profile%20views&color=0e75b6&style=flat" alt="aza4k" /> </p>
-</br>
-
-###
-
-<img align="right" height="178" src="https://media.tenor.com/sXJ1vmTMwAYAAAAC/tony-stark-iron-man.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" alt="django logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="bash logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" height="45" alt="dart logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="45" alt="qt logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="45" alt="docker logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height="45" alt="redis logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="45" alt="postgresql logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" alt="mysql logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="45" alt="mongodb logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="45" alt="sqlite logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" height="45" alt="heroku logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="45" alt="git logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain-wordmark.svg" height="45" alt="gitlab logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="45" alt="html5 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="45" alt="css3 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="45" alt="bootstrap logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="45" alt="bulma logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="45" alt="sass logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="45" alt="premierepro logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="45" alt="aftereffects logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="45" alt="photoshop logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="45" alt="illustrator logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="45" alt="chrome logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="45" alt="wordpress logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-plain-wordmark.svg" height="45" alt="woocommerce logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original-wordmark.svg" height="45" alt="drupal logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="45" alt="ubuntu logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="45" alt="windows8 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="45" alt="vscode logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45" alt="visualstudio logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="45" alt="pycharm logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original-wordmark.svg" height="45" alt="firefox logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="45" alt="google logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45" alt="googlecloud logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="45" alt="opera logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg" height="45" alt="ie10 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" height="45" alt="facebook logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="45" alt="twitter logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="45" alt="filezilla logo"  />
-</div>
-
-###
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aza4k&theme=monokai" alt="aza4k" /></a> </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3 align="center">Statistics</h3>
+<!-- Header Section -->
 <div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
+  <h1>Hi there, I'm <a href="https://aza.42web.io" target="_blank">Azamat</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  
+  <h3>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2BC4A9&center=true&vCenter=true&width=500&lines=Python+Backend+Developer;Building+AI+Solutions;Computer+Science+Student;Open+Source+Enthusiast" alt="Typing SVG" />
+    </a>
+  </h3>
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aza4k&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aza4k&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aza4k&theme=2077" height="180em" />
-</br></br></br>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aza4k&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aza4k&theme=2077" height="180em" />
+  <p align="center"> 
+    <b>Visitor count</b><br>
+    <img src="https://profile-counter.glitch.me/aza4k/count.svg" alt="Visitors">
+  </p>
+
+  <p>
+     <a href="https://instagram.com/azmtx_" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+     </a>
+     <a href="mailto:aza4kf@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+     </a>
+     <a href="https://aza.42web.io/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-2bc4a9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+     </a>
+  </p>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I am a dedicated **Python Developer** based in **Nukus, Uzbekistan 🇺🇿**. I have a strong passion for solving complex problems through code and integrating **Artificial Intelligence** into practical web applications.
+
+- 🔭 I’m currently working on **AI-powered Web Platforms (Django + LLMs)**
+- 🌱 I’m currently deepening my knowledge in **System Design & Microservices**
+- 🤝 I’m looking to collaborate on **Open Source Python Projects**
+- 💡 Interest: **Back-end Logic, Data Structures, Automation & AI**
+
+---
+
+### 🚀 Tech Stack & Skills
+
+I use a modern stack to build robust and scalable applications.
+
+| **Domain** | **Technologies** |
+|:---:|:---|
+| **Programming** | <img src="https://skillicons.dev/icons?i=python,js,cpp,dart" height="40" alt="Languages"/> |
+| **Backend & Web** | <img src="https://skillicons.dev/icons?i=django,fastapi,flask,html,css,bootstrap" height="40" alt="Frameworks"/> |
+| **Database** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis" height="40" alt="Databases"/> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,nginx,vscode,heroku" height="40" alt="Tools"/> |
+| **Design** | <img src="https://skillicons.dev/icons?i=figma,xd,ps" height="40" alt="Design"/> |
+
+---
+
+### 🏆 Featured Projects
+
+A curated list of my technical projects focusing on Real-World solutions.
+
+| Project Name | 📝 Description | 🛠️ Stack |
+| :--- | :--- | :--- |
+| **[Study Platform AI](https://study.pythonanywhere.com/)** | AI-driven LMS that generates custom courses, quizzes, and learning paths automatically based on user prompts. | `Django` `Gemini` `JS` |
+| **[UzMapAi](https://uzmapai.uz/)** | A smart tourism assistant for Uzbekistan. Routes, history, and travel tips generated by AI. | `Django` `HTML` `AI` |
+| **[Medicine Finder](https://recept24.pythonanywhere.com/)** | Locates nearest pharmacies and compares drug prices to help users save money. | `PostgreSQL` `Django` `GeoDjango` |
+| **[Health Control AI](https://heald.vercel.app/)** | Monitors health vitals (sugar, weight), tracks diet, and provides intelligent reminders. | `OpenAI API` `Django` |
+| **[BrainDesk Bot](https://t.me/thedurev)** | Telegram bot that acts as an academic writer for essays, abstracts, and content generation. | `Aiogram` `Python` `Gemini` |
+| **[Freelance Bot](https://github.com/aza4k)** | Connects clients and freelancers seamlessly within Telegram with job filtering capabilities. | `Python` `PostgreSQL` |
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aza4k&theme=radical&hide_border=true&background=0D1117&ring=2BC4A9&fire=2BC4A9&currStreakNum=E6E6E6" alt="GitHub Streak" />
+  <br><br>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aza4k&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E6E6E6&icon_color=2bc4a9&include_all_commits=true&count_private=true" height="180" alt="Stats" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aza4k&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E6E6E6" height="180" alt="Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aza4k&theme=monokai&no-frame=true&margin-w=15&row=1" />
+</div>
+
+---
+
+<div align="center">
+  <h3>Let's Code the Future! 🚀</h3>
+  <p><i>Feel free to reach out for collaborations or just a friendly hello!</i></p>
+  <br>
+  <a href="mailto:aza4kf@gmail.com">
+    <img src="https://img.shields.io/badge/Contact%20Me-Send%20Email-2bc4a9?style=for-the-badge&logo=gmail" />
+  </a>
 </div>
