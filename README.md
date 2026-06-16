@@ -1,97 +1,79 @@
-<!-- Header Section -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
-  <h1>Hi there, I'm <a href="https://aza.42web.io" target="_blank">Azamat</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-  
-  <h3>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2BC4A9&center=true&vCenter=true&width=500&lines=Python+Backend+Developer;Building+AI+Solutions;Software+Engineering+Student;Open+Source+Enthusiast" alt="Typing SVG" />
-    </a>
-  </h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00F2FE,4facfe,10141d&height=150&section=header&text=Azamat%20Duysenbaev&fontSize=38&fontColor=ffffff&fontAlignY=45" width="100%" />
+</p>
 
-  <p align="center"> 
-    <b>Visitor count</b><br>
-    <img src="https://profile-counter.glitch.me/aza4k/count.svg" alt="Visitors">
-  </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Python+%26+AI+Developer;Building+Intelligent+Solutions;Telegram+Bot+Architect;System+Design+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
-  <p>
-     <a href="https://instagram.com/azmtx_" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-     </a>
-     <a href="mailto:aza4kf@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-     </a>
-     <a href="https://aza.42web.io/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-2bc4a9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-     </a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://t.me/Thedurev" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://aza.42web.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website">
+  </a>
+  <a href="mailto:aza4kf@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://instagram.com/azmtx_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/aza4k/count.svg" alt="Visitor Count"> visitors since started
+</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a dedicated **Python Developer** based in **Nukus, Uzbekistan 🇺🇿**. I have a strong passion for solving complex problems through code and integrating **Artificial Intelligence** into practical web applications.
+I am a **Python & AI Developer** based in **Nukus, Karakalpakstan**. My focus lies in building reliable backend architectures and integrating **Artificial Intelligence (LLMs, RAG systems)** into web platforms and Telegram ecosystems.
 
-- 🔭 I’m currently working on **AI-powered Web Platforms (Django + LLMs)**
-- 🌱 I’m currently deepening my knowledge in **System Design & Microservices**
-- 🤝 I’m looking to collaborate on **Open Source Python Projects**
-- 💡 Interest: **Back-end Logic, Data Structures, Automation & AI**
-
----
-
-### 🚀 Tech Stack & Skills
-
-I use a modern stack to build robust and scalable applications.
-
-| **Domain** | **Technologies** |
-|:---:|:---|
-| **Programming** | <img src="https://skillicons.dev/icons?i=python,js,cpp,dart" height="40" alt="Languages"/> |
-| **Backend & Web** | <img src="https://skillicons.dev/icons?i=django,fastapi,flask,html,css,bootstrap" height="40" alt="Frameworks"/> |
-| **Database** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis" height="40" alt="Databases"/> |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,nginx,vscode,heroku" height="40" alt="Tools"/> |
-| **Design** | <img src="https://skillicons.dev/icons?i=figma,xd,ps" height="40" alt="Design"/> |
+- 🔭 **Currently working on:** AI-powered web applications (Django + LLMs) and intelligent conversational agents.
+- 🌱 **Currently learning:** System Design, Microservices, and High-load backend architectures.
+- 💬 **Interests:** Data structures, Backend architecture, Automation, and Multi-Agent AI systems.
+- 🏛️ **Company:** [Fundev](https://fundev.uz/)
 
 ---
 
-### 🏆 Featured Projects
+### 🛠️ Tech Stack & Tools
 
-A curated list of my technical projects focusing on Real-World solutions.
-
-| Project Name | 📝 Description | 🛠️ Stack |
-| :--- | :--- | :--- |
-| **[Study Platform AI](https://study.pythonanywhere.com/)** | AI-driven LMS that generates custom courses, quizzes, and learning paths automatically based on user prompts. | `Django` `Gemini` `JS` |
-| **[UzMapAi](https://uzmapai.uz/)** | A smart tourism assistant for Uzbekistan. Routes, history, and travel tips generated by AI. | `Django` `HTML` `AI` |
-| **[Medicine Finder](https://recept24.pythonanywhere.com/)** | Locates nearest pharmacies and compares drug prices to help users save money. | `PostgreSQL` `Django` `GeoDjango` |
-| **[Health Control AI](https://heald.vercel.app/)** | Monitors health vitals (sugar, weight), tracks diet, and provides intelligent reminders. | `OpenAI API` `Django` |
-| **[BrainDesk Bot](https://t.me/thedurev)** | Telegram bot that acts as an academic writer for essays, abstracts, and content generation. | `Aiogram` `Python` `Gemini` |
-| **[Freelance Bot](https://github.com/aza4k)** | Connects clients and freelancers seamlessly within Telegram with job filtering capabilities. | `Python` `PostgreSQL` |
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aza4k&theme=radical&hide_border=true&background=0D1117&ring=2BC4A9&fire=2BC4A9&currStreakNum=E6E6E6" alt="GitHub Streak" />
-  <br><br>
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aza4k&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E6E6E6&icon_color=2bc4a9&include_all_commits=true&count_private=true" height="180" alt="Stats" />
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aza4k&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E6E6E6" height="180" alt="Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aza4k&theme=monokai&no-frame=true&margin-w=15&row=1" />
-</div>
-
----
-
-<div align="center">
-  <h3>Let's Code the Future! 🚀</h3>
-  <p><i>Feel free to reach out for collaborations or just a friendly hello!</i></p>
-  <br>
-  <a href="mailto:aza4kf@gmail.com">
-    <img src="https://img.shields.io/badge/Contact%20Me-Send%20Email-2bc4a9?style=for-the-badge&logo=gmail" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,cpp,dart,bash,django,fastapi,flask,html,css,bootstrap,postgres,mysql,redis,mongodb,sqlite,docker,git,github,linux,nginx,figma" />
   </a>
-</div>
+</p>
+
+- **Programming Languages:** Python, JavaScript, C++, Dart, Bash
+- **Web & Backend Frameworks:** Django, FastAPI, Flask
+- **Databases:** PostgreSQL, MySQL, Redis, MongoDB, SQLite
+- **AI & API Integration:** OpenAI API, Gemini API, RAG Architecture
+- **DevOps & Tools:** Docker, Linux, Nginx, Git, GitHub
+
+---
+
+### 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aza4k&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aza4k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aza4k&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE" alt="Top Languages" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aza4k&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <b>Let's build something amazing together! 🚀</b><br>
+  <i>Always open to collaboration, learning opportunities, or just a friendly tech discussion.</i>
+</p>
