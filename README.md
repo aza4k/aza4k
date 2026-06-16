@@ -68,7 +68,7 @@ I am a **Python & AI Developer** based in **Nukus, Karakalpakstan**. My focus li
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aza4k&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aza4k&bg_color=0D1117&color=00F2FE&line=00F2FE&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </p>
 
 ---
