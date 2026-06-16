@@ -18,13 +18,10 @@
   <a href="mailto:aza4kf@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://instagram.com/azmtx_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/aza4k/count.svg" alt="Visitor Count"> visitors since started
+  <img src="https://komarev.com/ghpvc/?username=aza4k&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
 </p>
 
 ---
